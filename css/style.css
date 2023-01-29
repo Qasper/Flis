@@ -1,0 +1,76 @@
+body {
+	background: url(../images/bg01.png);
+
+}
+
+.goutside {
+	background-image: url(../images/bg01.png);
+	padding: 1.4em 1em 3em 3em;
+
+}
+
+.all {
+	max-width: 1000px;
+	margin: auto;
+	padding: 0em 2em 0em 2em;
+	
+}
+
+.logo {
+	background-color: #275b41;
+	width: 300px;
+	text-align: center;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.logo h1 {
+	color: #eeeeee;
+	font-size: 80px;
+}
+
+.toptext {
+	background-image: url(../images/læhegn4.png);
+	background-repeat: stretch;
+	height: 300px;
+	min-width: 300px;
+	border-radius: 5px 5px 5px 5px;
+	padding: 0.2em 1em 0em 1em;
+	margin-bottom: 30px;
+}
+
+.toptext h2 {
+	font-size: 40px;
+}
+
+.toptext p {
+	font-size: 20px;
+}
+
+.bigcontainer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.card {
+	min-width: 220px;
+	max-width: 220px;
+	padding: 1.8em 1.8em 1.8em 1.8em;
+	border: 0.6mm solid #6d716f;
+	background-color: #56aa7f;
+	margin: 8px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.card img {
+	width: 40%;
+	margin: auto;
+	display: block;
+
+}
+
+footer {
+	opacity: 0.5;
+	text-align: center;
+	padding: 3em 0em 0em 0em;
+}
